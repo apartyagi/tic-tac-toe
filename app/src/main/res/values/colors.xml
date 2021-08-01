@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="splash">#DF1E25</color>
+    <color name="button_1">#66f9B0</color>
+    <color name="button_2">#66B9f9</color>
+    <color name="button_3">#FA71CD</color>
+    <color name="shape_stroke_status">#84C1E4</color>
+    <color name="shape_bg_status">#fff</color>
+    <color name="tool_bar_color">#283593</color>
+    <color name="text_black">#010701</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="splash_head_color">#DDECEA</color>
+</resources>

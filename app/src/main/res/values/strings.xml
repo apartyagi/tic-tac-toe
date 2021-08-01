@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Tao</string>
+    <string name="splash_head">Tic Tac Tao</string>
+    <string name="solo_head">Welcome to noob player game</string>
+    <string name="player_turn">Player `X`Turns</string>
+    <string name="rate">Rate us</string>
+    <string name="share">Share</string>
+</resources>
